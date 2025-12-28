@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/c90799f7-52bb-4c90-90db-4890281991c1
 Just clone the repo and run the script:
 
 ```bash
-git clone -b main --depth=1 https://github.com/uiriansan/SilentSDDM && cd SilentSDDM && ./install.sh
+git clone -b main --depth=1 https://github.com/Flanz1/Personal-silentSDDM.git && cd SilentSDDM && ./install.sh
 ```
 
 > [!IMPORTANT]
